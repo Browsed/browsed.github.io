@@ -10325,7 +10325,7 @@ body {
 }
 
 .contact-section {
-  padding-top: 5rem;
+  padding-top: 1rem;
 }
 .contact-section .card {
   border: 0;
@@ -10343,7 +10343,7 @@ body {
   width: 3rem;
 }
 .contact-section .social {
-  margin-top: 5rem;
+  margin-top: 1rem;
 }
 .contact-section .social a {
   text-align: center;
@@ -10362,7 +10362,7 @@ body {
 }
 
 .footer {
-  padding: 5rem 0;
+  padding: 1rem;
 }
 
 /* ///////////////////////////
